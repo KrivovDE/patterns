@@ -1,3 +1,5 @@
+# Нарушается принцип OCP
+
 class Person:
     def __init__(self):
         # адрес
